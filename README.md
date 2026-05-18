@@ -4,7 +4,7 @@ Este repositório foi criado para o **Exercício 2** da disciplina. Trata-se de 
 
 ## 🚀 Link do Aplicativo
 O dashboard está publicado e pode ser acessado em tempo real através do link abaixo:
-👉 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD](https://seu-link-do-streamlit.streamlit.app)**
+👉 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD](https://karolaine-ponci.streamlit.app/)**
 
 ---
 
